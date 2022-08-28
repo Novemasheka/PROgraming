@@ -1,0 +1,26 @@
+#menu{
+	background-color: white;
+	width: 100%;
+}
+
+#omaga{
+	background-color: white;
+	width: 100%;
+}
+.red{background-color: red;}
+.gren{background-color: limegreen;}
+.yelo{background-color: yellow;}
+.ar{
+	cursor: pointer;
+	border-radius: 25px;
+	background-color: black;
+	color: white;
+	border: 2px solid red ;
+}
+.no{
+	text-shadow: 3px 2px 1px red;
+}
+.no:hover{
+	background-color: gray;
+	t
+}
